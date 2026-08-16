@@ -9,4 +9,4 @@ resources:
 images:
 - name: yuniqcoding/hello-app
   newName: yuniqcoding/hello-app
-  newTag: 2af667c
+  newTag: 2422eaa
